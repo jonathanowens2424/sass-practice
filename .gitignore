@@ -1,0 +1,27 @@
+## Common patterns to add:
+```
+# Dependencies
+node_modules/
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
